@@ -1,7 +1,3 @@
-Here's the updated README file content, including your name and a reference to the license file:
-
----
-
 # Clustering Assignment: Comparative Performance Study of Different Clustering Algorithms
 
 This project explores the performance of different clustering algorithms using various pre-processing techniques and evaluating them with different cluster sizes on a small dataset from the UCI Machine Learning Repository. The analysis was performed using a Colab notebook, and results are shared in terms of tables, graphs, and conclusions.
