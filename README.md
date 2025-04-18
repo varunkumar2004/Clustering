@@ -71,7 +71,3 @@ This project demonstrates how algorithm selection, preprocessing, and cluster si
 
 ## 👨‍💻 **9. Author**
 - **Varun Kumar**
-
----
-
-Let me know if you'd like to add a section for future work or references!
