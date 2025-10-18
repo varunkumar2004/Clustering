@@ -55,19 +55,5 @@ Clustering performance was assessed using the following criteria:
 
 ---
 
-## 🚀 **7. Getting Started**
-To run the project locally:
-```bash
-git clone https://github.com/your-username/clustering-assignment.git
-```
-Then, open the notebook using Google Colab and execute the cells step by step.
-
----
-
-## ✅ **8. Final Thoughts**
+## ✅ **7. Final Thoughts**
 This project demonstrates how algorithm selection, preprocessing, and cluster sizing can significantly impact clustering outcomes. It emphasizes the importance of a data-driven approach when choosing clustering strategies.
-
----
-
-## 👨‍💻 **9. Author**
-- **Varun Kumar**
